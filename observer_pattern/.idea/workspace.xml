@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d3f0a22-80a8-41e5-bacf-0e5dd2207891" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../observer_pattern/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/obsserver_pattern/normal/CurrentConditionDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/obsserver_pattern/normal/DisplayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/obsserver_pattern/normal/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/obsserver_pattern/normal/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/obsserver_pattern/normal/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/obsserver_pattern/normal/WeatherDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,19 +60,6 @@
       <recent name="obsserver_pattern.normal" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -87,6 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613094973538</updated>
       <workItem from="1613094975246" duration="2215000" />
+      <workItem from="1613097404997" duration="33000" />
     </task>
     <servers />
   </component>
@@ -103,5 +86,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
