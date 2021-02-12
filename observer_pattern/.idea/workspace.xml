@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b5438a-f93d-4e1b-b8da-72682b99819f" name="Default Changelist" comment="" />
+    <list default="true" id="4d3f0a22-80a8-41e5-bacf-0e5dd2207891" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../observer_pattern/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/obsserver_pattern/normal/CurrentConditionDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/obsserver_pattern/normal/DisplayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/obsserver_pattern/normal/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/obsserver_pattern/normal/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/obsserver_pattern/normal/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/obsserver_pattern/normal/WeatherDataTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,11 +23,20 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="KubernetesApiPersistence">
     <option name="context" value="lke17469-ctx" />
     <option name="namespace" value="monitoring" />
   </component>
-  <component name="ProjectId" id="1oMRXqCd2E2R2no3ta9RT0ObrxA" />
+  <component name="ProjectId" id="1oMSTSNRS012Q8BCu1ly9vRUMdW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,20 +48,45 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/obsserver_pattern" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="obsserver_pattern.normal" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="84b5438a-f93d-4e1b-b8da-72682b99819f" name="Default Changelist" comment="" />
-      <created>1613094516660</created>
+      <changelist id="4d3f0a22-80a8-41e5-bacf-0e5dd2207891" name="Default Changelist" comment="" />
+      <created>1613094973538</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1613094516660</updated>
-      <workItem from="1613094518136" duration="456000" />
+      <updated>1613094973538</updated>
+      <workItem from="1613094975246" duration="2215000" />
     </task>
     <servers />
   </component>
