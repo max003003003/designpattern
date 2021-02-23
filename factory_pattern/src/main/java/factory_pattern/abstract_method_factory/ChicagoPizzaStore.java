@@ -1,4 +1,4 @@
-package factory_pattern;
+package factory_pattern.abstract_method_factory;
 
 public class ChicagoPizzaStore extends PizzaStore {
     @Override

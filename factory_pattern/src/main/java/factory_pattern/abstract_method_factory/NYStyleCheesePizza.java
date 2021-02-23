@@ -1,4 +1,4 @@
-package factory_pattern;
+package factory_pattern.abstract_method_factory;
 
 public class NYStyleCheesePizza extends Pizza {
 
@@ -6,7 +6,6 @@ public class NYStyleCheesePizza extends Pizza {
         name = "NY Style Sauce and Cheese Pizza";
         dough = "Thin Crust Dough";
         sauce = "Marinara Sauce";
-
         toppings.add("Grated Reggiano Cheese");
     }
 }

@@ -1,8 +1,13 @@
-package factory_pattern;
+package factory_pattern.abstract_method_factory;
+
+import factory_pattern.abstract_method_factory.Ingredient.PizzaIngredientFactory;
 
 public class NYPizzaStore extends PizzaStore {
     @Override
     Pizza createPizza(String item) {
+        PizzaIngredientFactory ingredientFactory =
+                new NYPizzaIngredientFactory();
+
         if (item.equals("cheese")) {
             return new NYStyleCheesePizza();
         }
